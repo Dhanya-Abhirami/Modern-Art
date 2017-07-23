@@ -34,6 +34,6 @@ while x < 100: # while the value of x is lesser than 120,
 
     rt(11) 
     x = x+1 # adds 1 to the value of x,
-            # so that it is closer to 120 after every loop
+            # so that it is closer to 100 after every loop
 
 exitonclick() # When you click, turtle exits.
